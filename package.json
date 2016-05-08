@@ -22,7 +22,9 @@
     "duration",
     "degree",
     "degrees",
-    "spin"
+    "spin",
+    "jquery-plugin",
+    "ecosystem:jquery"
   ],
   "author": "clarketm <travis.m.clarke@gmail.com>",
   "license": "MIT",

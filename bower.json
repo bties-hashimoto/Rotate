@@ -15,7 +15,9 @@
     "duration",
     "degree",
     "degrees",
-    "spin"
+    "spin",
+    "jquery-plugin",
+    "ecosystem:jquery"
   ],
   "dependencies": {
     "jquery": "~1.11.3"
